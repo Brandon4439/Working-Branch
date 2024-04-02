@@ -1,0 +1,2 @@
+Merge Conlflict was solved by merging the two files togethe to have both the version number and student ID Number
+I changed the html files by adding notes in them as well as adding text the body. 
